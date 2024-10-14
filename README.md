@@ -1,3 +1,3 @@
 titan
 
-working on a privacy and community focused project on alephium
+working on a privacy focused project on alephium
